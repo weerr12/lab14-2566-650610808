@@ -46,7 +46,7 @@ export default function FoodReviewPage() {
       </Text>
       <Pagination total={20} color="orange" mt="md" position="center" />
       <Text align="center" color="dimmed" my="sm">
-        Copyright © 2023 Werasak Mayer 650610808
+        Copyright © 2023 WERASAK MAYER 650610808
       </Text>
     </Container>
   );
